@@ -22,4 +22,7 @@
     <string name="signUpError">Error, please check your email and password.</string>
     <string name="signUpErrorTitle">Daymn!</string>
     <string name="button">Retry</string>
+    <string name="signUpSuccess">Account created!</string>
+    <string name="signUpSuccessTitle">Booooom!</string>
+    <string name="signUpParseError">Something seems wrong here... Please try again later.</string>
 </resources>
