@@ -19,4 +19,7 @@
     <string name="loginButton">Login</string>
     <string name="signUpText">Sign up!</string>
     <string name="title_activity_sign_up">Sign up</string>
+    <string name="signUpError">Error, please check your email and password.</string>
+    <string name="signUpErrorTitle">Daymn!</string>
+    <string name="button">Retry</string>
 </resources>
