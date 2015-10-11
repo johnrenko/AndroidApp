@@ -25,4 +25,5 @@
     <string name="signUpSuccess">Account created!</string>
     <string name="signUpSuccessTitle">Booooom!</string>
     <string name="signUpParseError">Something seems wrong here... Please try again later.</string>
+    <string name="logOut">Log out</string>
 </resources>
