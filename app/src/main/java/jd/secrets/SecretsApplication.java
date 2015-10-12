@@ -12,9 +12,6 @@ public class SecretsApplication extends Application {
         super.onCreate();
         Parse.enableLocalDatastore(this);
         Parse.initialize(this, "d3a2Z4QuMss5YZeYfR6IqAUB5dPmphNXQ6JUfezk", "qXl5ZYLwehBW8AqWqtFZu2QhguxNNdstkzERyhzL");
-        ParseObject testObject = new ParseObject("TestObject");
-        testObject.put("foo", "bar");
-        testObject.saveInBackground();
     }
 
 }
