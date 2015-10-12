@@ -2,7 +2,7 @@
     <string name="app_name">Secrets</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
-    <string name="title_activity_login">Sign in</string>
+    <string name="title_activity_login">Log in</string>
 
     <!-- Strings related to login -->
     <string name="prompt_email">Email</string>
@@ -27,4 +27,6 @@
     <string name="signUpParseError">Something seems wrong here... Please try again later.</string>
     <string name="logOut">Log out</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_test">Test</string>
+    <string name="title_activity_main2">Main2Activity</string>
 </resources>
