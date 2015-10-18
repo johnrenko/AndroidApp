@@ -2,9 +2,17 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools" tools:context="jd.secrets.MainActivity">
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
-        android:orderInCategory="100" app:showAsAction="never" />
+        android:orderInCategory="100"
+        app:showAsAction="never" />
     <item
         android:id="@+id/logOut"
         android:title="@string/logOut"
-        android:orderInCategory="100" app:showAsAction="never" />
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/photo"
+        android:title="@string/photo"
+        android:icon="@android:drawable/ic_menu_camera"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom" />
 </menu>
