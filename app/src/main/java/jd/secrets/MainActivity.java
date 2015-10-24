@@ -113,8 +113,6 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent);
         }else if (id == R.id.photo){
             dispatchTakePictureIntent();
-
-
         }
 
         return super.onOptionsItemSelected(item);
